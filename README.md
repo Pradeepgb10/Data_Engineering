@@ -1,6 +1,5 @@
 # Data_Engineering
-Data Engineering Projects
-
+Data Engineering Projects  
 Design data models, build data warehouses and data lakes, automate data pipelines, and work with massive datasets.
 
 • Create user-friendly relational and NoSQL data models  
